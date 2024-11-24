@@ -45,7 +45,7 @@ body {
 
 .img-container img {
     width: 100%;
-    max-width: 100px;
+    max-width: 80px;
     border-radius: 50%;
     display: block;
     margin: auto;
